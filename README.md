@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvelynKhew! Welcome to my humble portfolio that I am currently curating. 
 <!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently seeking employment in the Iowa, U.S. region. 
+- 🌱 I’m currently a Master's student under Computer Science at Iowa State University.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Email: evelynkhew1999@gmail.com
 
